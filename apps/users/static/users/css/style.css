@@ -1,0 +1,15 @@
+.col{
+    margin-right: 100px;
+}
+li.error{
+    color: red;
+}
+li.success{
+    color: green;
+}
+.flashes{
+    padding: 0;
+}
+li{
+    list-style: none;
+}
